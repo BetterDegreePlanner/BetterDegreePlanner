@@ -8,3 +8,6 @@ I'm Evan Chang, and I added these changes from VSCode! Try to put your **FirstNa
 Contributors:
 Evan Chang
 Rhea Goyal
+Anthony Nguyen
+Srikar Kotha
+Zachry Jew
